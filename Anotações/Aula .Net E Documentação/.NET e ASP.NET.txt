@@ -1,0 +1,16 @@
+.Net- Plataforma de desenvolvimento com ferramentas, com suas linguagens e 
+bibliotecas para auxiliar o desenvolvimento.
+
+ASP.Net - Framework que amplia o .Net usado para criação de aplicativos web.
+
+Nuget - É um gerenciador de pacotes
+
+.Net Framewrok - Foi criado com foco em Windows, por conta disso começou a perder 
+força e a Microsoft decidiu não focar mais nele. Possui dois componentes,
+a Common language runtime(CLR), que gerencia a execução dos aplicativos, e o .Net
+Class Library, que é a biblioteca para reutilização de códigos. o Compilador traduz 
+o código de alto nível para uma linguagem intermediária(CIL) e depois o ClR que com 
+o JIT transforma a linguagem intermediária para código de máquina em tempo de
+execução.
+
+Xamarim - Plataforma de desenvolvimento mobile, baseado no projeto Mono.

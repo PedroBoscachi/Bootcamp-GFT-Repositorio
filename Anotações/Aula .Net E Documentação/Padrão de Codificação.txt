@@ -1,0 +1,40 @@
+Bom código - confiável, sustentável e eficiente.
+
+Clean Code - padrão de boas práticas para desenvolvimento de software.
+1-Siga o padrão da equipe
+2-KISS(keep it stupid simple)
+3-Entregue o código sempre mais limpo
+4-Entenda o problema por sua raiz
+
+Regras para entendimento de código:
+1-Seja consistente na escrita de código
+2-Utilize variáveis auto explicativas
+3-Criação de objetos de valor ao invés de tipos primitivos
+4-Evite dependências lógicas
+5-Evite condicionais negativas
+
+Regras para Nomeação:
+1-Nomes descritivos e completos
+2-Dinstinção identificável para variáveis parecidas
+3-Nomes de fácil leitura e busca
+4-Use constantes para guardas string a serem comparadas
+5-Não use prefixos ou caracteres especiais
+
+Regras para Métodos:
+1-Métodos não podem ser grandes e devem possuir só uma responsabilidade
+2-Nomes descritivos
+3-Evitar muitos paramêtros no método
+4-Evite que uma função altere valores de outra classe sem ser a própria classe
+5-Evite flags desnecessárias
+
+Regras para estruturação de código:
+1-Declare variáveis próximas de seu uso
+2-Agrupe métodos similares
+3-Declare funções de cima para baixo
+4-Poucas e curtas linhas
+5-Espaçamento e identação
+
+Padrões usados pela maioria no C#:
+Nomes de Classes e Métodos: PascalCase
+Nomes de variáveis e parâmetros: CamelCase
+Interfaces: Começa com I

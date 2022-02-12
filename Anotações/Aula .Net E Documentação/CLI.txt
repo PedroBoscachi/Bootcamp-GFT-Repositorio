@@ -1,0 +1,12 @@
+CLI(Command-Line Interface): processa comandos na forma de linhas de texto.
+
+dotnet --version : mostra versão do .net
+dotnet --help : lista todos os comandos
+dotnet --info : infos sobre o .net do seu pc
+dotnet new : cria projeto
+dotnet new --list --tag web : filtra só projetos web
+dotnet new --help : mostra  opções para filtrar
+dotnet new console -o myApp : cria projeto console
+dotnet run : executa o projeto
+dotnet build : compila o projeto
+dotnet restore : resgata dependências para o projeto
