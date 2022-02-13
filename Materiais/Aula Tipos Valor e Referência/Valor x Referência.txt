@@ -1,0 +1,9 @@
+Reference Types: string, delegate, object, array, classes e interfaces ...
+Value Types: valores numéricos, boolean, char, tuples, struct ...
+
+Value Type: Tem uma instância do tipo, ocorrendo uma cópia, alocando na stack.
+Seu valor inicial sempre é o default.
+
+Reference Type: Tem uma referência para a instância do tipo, na stack fica um
+ponteiro e a alocação na heap. Sempre inicia com null. Seu gerenciamento de 
+memória é feito com o Garbage Collector.
