@@ -1,0 +1,46 @@
+HTTP(HyperText Transfer Protocol) : Rege a estrutura as mensagens, usa
+a arquitetura cliente-servidor
+ -Browser -> implementa o cliente HTTP
+ -Servidor -> host objetos web
+
+ -Cliente: Mensagens - Request HTTP, como solicitar ou enviar dados para o servidor
+ -Servidor: Mensagens - Response HTTP, o servidor responde com mensagens do
+tipo Response, essa comunicação cliente-servidor é feita através do protocolo TCP,
+que é um protocolo de transporte, operando de duas maneiras, com conexão persistente
+ou conexão não persistente.A conexão persistente só é encerrada quando ocorre
+um pedido especifico de encerramento. A conexão não persistente é encerrada
+a cada envio de dados.
+
+HTTP: É Stateless, ou seja, não guarda estados do cliente
+
+
+
+MENSAGENS
+Request: Texto ASCII, possui Request Line e Header Line. Dentro do RL tem o método HTTP e a versão
+do HTTP. Dentro do HL, tem o Host que é onde está hospedado os dados e para onde a requisição está
+sendo enviada, o tipo de conexão, o agente que realiza a requisição e linguagem do cliente.
+
+Response: Tem Status Line, Header lines e Entity body. Dentro do SL tem a versão do protocolo,
+o código do status e e o status da mensagem. Dentro do HL tem o tipo de conexão, dados da mensagem(como
+data, servidor ...) e content-type(tipo de dado).
+
+
+COOKIES
+Cookies: servem para rastreamento, identificação para restrição ou fornecimento de funções para
+o usuário. Existem 3 componentes, o Cookie header line que possui a response message e request
+message. O Cookie file, que é mantido no cliente(gerenciado pelo browser) e servidor, E 
+no banco de dados Back-End.
+
+
+
+PROTOCOLO SSL(Secure Socket Layer)
+SSL: Protocolo de segurança para conexões TCP, promovendo confidencialidade, integridade e autenticade end-point
+(ponta a ponta), o SSL é importante para evitar ataques maliciosos de roubo e leitura. A operação do SSL ocorre
+em três fases, na ordem Handshake, Key Derivation e Data Transfer. A conexão com o TCP ocorre na primeira fase,
+com o usuário enviando dados e recebendo a resposta, no segundo passo verifica a autenticidade com a 
+certificação da chave pública, na terceira a mensagem é encriptografada com a chave e ocorre a transferência
+de  dados depois que ocorre sua verificação(Record + Mac).
+
+
+HTTPS: Protocolo HTTP que usa a proteção  do SSL no transporte do TCP, seu uso é para proteção de fishing
+e privacidade.

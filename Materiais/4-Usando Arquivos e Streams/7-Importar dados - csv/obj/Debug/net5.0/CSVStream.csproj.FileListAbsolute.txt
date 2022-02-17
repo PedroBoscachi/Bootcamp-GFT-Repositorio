@@ -1,0 +1,16 @@
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\CSVStream.exe
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\CSVStream.deps.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\CSVStream.runtimeconfig.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\CSVStream.runtimeconfig.dev.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\CSVStream.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\ref\CSVStream.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\bin\Debug\net5.0\CSVStream.pdb
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.csproj.AssemblyReference.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.AssemblyInfoInputs.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.AssemblyInfo.cs
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.csproj.CoreCompileInputs.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\ref\CSVStream.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.pdb
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\7-Importar dados - csv\obj\Debug\net5.0\CSVStream.genruntimeconfig.cache

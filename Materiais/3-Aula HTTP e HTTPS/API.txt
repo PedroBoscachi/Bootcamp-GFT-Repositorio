@@ -1,0 +1,28 @@
+API(Application Programming Interface): coleção de métodos disponibilizados por um
+serviço para interação indireta. A API oferece métodos de um serviço para serem
+usados sem que conheça a lógica por trás e não precisa saber quem solicitou esses
+serviços. USado por conta de seu padrão, interage bem o HTTP, permite criação
+de APIs melhores e foco no desenvolvimento.
+
+Propriedades da API:
+-Acesso de Dados: facilita o acesso à dados
+-Esconder Complexidade: faz ações que são transparente para o usuário e até mesmo para
+o desenvolvedor, assim deixando o desenvolvedor focar na funcionalidade do app.
+-Estender funcionalides: Adiciona funções para seu aplicativo
+-Segurança: A API avisa se existe tentativa de acesso à dados, como por exemplo 
+o google maps.
+
+
+
+PADRÃO REST(Representational State Transfer)
+É uma arquitetura que define regras para comunicação entre API e Sistema, usado
+majoritariamente pelo protocolo HTTP. Arquitetura que define padrão de linguagem
+e boas práticas para comunicação do sistema.
+Vantagens da Padronização: Maior compreenção, redução do esforço, ganho em
+agilidade, eficiência e migração de sistemas.
+Modelo do REST: cliente-servidor, stateless, cache, interface uniforme, layered system 
+e code on demand(opcional).
+
+-Cache: Seu objetivo é aumentar a eficiência da rede, as requisições são classificadas.
+-Layered System: composição hierárquica de camadas, aumenta latência e overhead de dados,
+mas são compensados pelo uso de cache.

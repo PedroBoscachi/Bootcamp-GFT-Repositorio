@@ -1,0 +1,16 @@
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\demos.exe
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\demos.deps.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\demos.runtimeconfig.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\demos.runtimeconfig.dev.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\demos.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\ref\demos.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\bin\Debug\net5.0\demos.pdb
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.csproj.AssemblyReference.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.AssemblyInfoInputs.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.AssemblyInfo.cs
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.csproj.CoreCompileInputs.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\ref\demos.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.pdb
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\Aula Tipos Valor e Referência\obj\Debug\net5.0\demos.genruntimeconfig.cache

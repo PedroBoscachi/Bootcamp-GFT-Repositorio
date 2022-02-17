@@ -1,0 +1,16 @@
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\diretorios.exe
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\diretorios.deps.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\diretorios.runtimeconfig.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\diretorios.runtimeconfig.dev.json
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\diretorios.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\ref\diretorios.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\bin\Debug\net5.0\diretorios.pdb
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.csproj.AssemblyReference.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.AssemblyInfoInputs.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.AssemblyInfo.cs
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.csproj.CoreCompileInputs.cache
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\ref\diretorios.dll
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.pdb
+D:\Pedro\BOOTCAMP GFT .NET\Bootcamp-GFT-Repositorio\Materiais\4-Usando Arquivos e Streams\2-Diretórios\obj\Debug\net5.0\diretorios.genruntimeconfig.cache

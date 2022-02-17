@@ -1,0 +1,19 @@
+Criptografia Por Chave: Vamos supor que você tenha um arquivo que precise ser restrito apenas
+à leitura, esse arquivo tem um código que mistura os dados de uma maneira ilegível para as pessoas, assim,
+somente a pessoa que possui a chave tem a capacidade ler. Possue dois tipos de criptografia por chave,
+a assimétrica e a simétrica. A Simétrica é utilizada pelo SSL que é usada no HTTPS.
+
+	Chave Assimétrica: Chave privada para assinatura e Chave pública para verificação de 
+autenticidade.
+	
+	Chave Simétrica: Só tem a chave única  privada. Atualmente essa chave tem dois tipos, a 
+Cifra de fluxo e a Cifra de bloco(Usada por SSL, PGP, Ipsec, DES, AES, #DES).  A cifra de fluxo mistura 
+os dados em sequência pseudo-aleatória de bits. A por blocos usa blocos de bits, por exemplo, temos 
+1 bloco de 3bits, dado uma sequência de bits, a cada 3 bits irá ser  feito uma permutação 
+desses 3 bits, nesse caso, seria possível 40.320 variações, entretanto, esse valor é baixo
+atualmente, logo, são usados números maiores, geralmente são blocos maiores de 64
+
+
+As chaves são certificadas através de uma Entidade Certificadora, que verifica identidade e emite
+certificados, essas entidades precisam ter alta confiabilidade. O certificado é o vínculo entre a 
+chave e a entidade.
